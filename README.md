@@ -6,4 +6,4 @@ I used MySQL for writing code.
 
 ## Python Source
 1. Python_Store-boothcamp project :
-   https://datalore.jetbrains.com/notebook/9oxFjlDE1dt39blD7rOd6p/16mGdyXrCQRPv58DjLTgkO
+   https://datalore.jetbrains.com/notebook/IYDmzwkYZkdQhLCL9Ot9KF/kdjkLFFLMys49mE12AQYtn
